@@ -137,7 +137,3 @@ public:
         return iterator(nullptr);
     }
 };
-
-int main() {
-    return 0;
-}
